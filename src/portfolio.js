@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://vanshikarana.vercel.app/',
   title: 'VR',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Software Developer',
   description:
     "I love to develop websites and play around with different technologies. I have also worked with languages like Java and Python. I am highly motivated and responsible towards my work. If my knowledge of programming and technologies can be put to good use by you or your organization you can reach out to me by email.",
-  resume: '../../assets/resume.pdf',
+  resume: 'https://github.com/Vanshika-Rana/resume/blob/main/resume.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/vanshikarana/',
     github: 'https://github.com/Vanshika-Rana',
